@@ -8,6 +8,7 @@ A place to store presentations and documents related to PGC Suicide GWAS analyse
 [Phenotyping Protocol](https://docs.google.com/document/d/1c_mnQP65OD40H8AeQP46Q1GBKyFPAJ17/edit?usp=sharing&ouid=100565693455776003108&rtpof=true&sd=true)
 
 [Analytic Protocol for studies submitting individual-level data](https://docs.google.com/document/d/1zQWQaA4gh4XdrXT9pCVf0iEXiuOdtztKVXleuCPK4pE/edit?usp=sharing)
+
 [Analytic Porotocol for studies submitting summary-level data](https://docs.google.com/document/d/13kzDwedDOyvLdATQuLMM89lij8xlZqWsRj3Z60bec3A/edit?usp=sharing)
 
 ## Work Group Call Relevant Presentations
