@@ -15,4 +15,5 @@ A place to store presentations and documents related to PGC Suicide GWAS analyse
 [July 19th, 2023 Presentation on PGC Suicide Data Intake for upcoming GWAS]()
 
 [November 16th, 2022 Presentation on LISA Infrastructure and Data Intake*](https://github.com/Mullins-Lab/PGC_Suicide_GWAS/blob/main/presentations/lisa_presentation_20221116.pdf)
+
 *Note: LISA has been replaced with SNELLIUS, but the general process outlined in this presentation is still very similar to the current intake process.
