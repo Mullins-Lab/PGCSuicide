@@ -5,6 +5,8 @@ A place to store presentations and documents related to PGC Suicide GWAS analyse
 ![study design graphic](https://github.com/Mullins-Lab/PGC_Suicide_GWAS/blob/main/files/phenotyping_diagram.png)
 
 ## Work Group Protocols
+[Protocol folder](https://drive.google.com/drive/folders/1lmGc9A6Ah4_stJFSjiFWcvx6d-tPP8Mp?usp=sharing)
+
 [Phenotyping Protocol](https://docs.google.com/document/d/1c_mnQP65OD40H8AeQP46Q1GBKyFPAJ17/edit?usp=sharing&ouid=100565693455776003108&rtpof=true&sd=true)
 
 [Analytic Protocol for studies submitting individual-level data](https://docs.google.com/document/d/1zQWQaA4gh4XdrXT9pCVf0iEXiuOdtztKVXleuCPK4pE/edit?usp=sharing)
